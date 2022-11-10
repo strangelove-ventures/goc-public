@@ -14,3 +14,6 @@ apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.
 ### Relayers
 provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) --coming soon  
 provider<>apollo [via go relayer](https://github.com/cosmos/relayer) --coming soon  
+
+### Docker Images
+provider: `ghcr.io/strangelove-ventures/heighliner/gaia:glnro-ics-sdk45`
