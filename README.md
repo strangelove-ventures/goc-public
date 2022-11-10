@@ -8,8 +8,8 @@
 ## Strangelove Services
 ### RPC Servers
 provider: [http://provider.goc.strange.love:26657/status](http://provider.goc.strange.love:26657/status)  
-sputnik: [http://sputnik.goc.strange.love:26657/status](http://sputnik.goc.strange.love:26657/status)  --coming soon  
-apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status) --coming soon
+sputnik: [http://sputnik.goc.strange.love:26657/status](http://sputnik.goc.strange.love:26657/status)  
+apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status) 
 
 ### Relayers
 provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) --coming soon  
