@@ -16,4 +16,7 @@ provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) --coming 
 provider<>apollo [via go relayer](https://github.com/cosmos/relayer) --coming soon  
 
 ### Docker Images
-provider: `ghcr.io/strangelove-ventures/heighliner/gaia:glnro-ics-sdk45`
+[gaia](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fgaia)  
+
+`ghcr.io/strangelove-ventures/heighliner/gaia:glnro-ics-sdk45`  
+`ghcr.io/strangelove-ventures/heighliner/gaia:smarshall-spitzbart-glnro-ics-sdk45`
