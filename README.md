@@ -9,11 +9,13 @@
 ### RPC Servers
 provider: [http://provider.goc.strange.love:26657/status](http://provider.goc.strange.love:26657/status)  
 sputnik: [http://sputnik.goc.strange.love:26657/status](http://sputnik.goc.strange.love:26657/status)  
-apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status) 
+apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status)   
+hero: [http://hero.goc.strange.love:26657/status](http://hero.goc.strange.love:26657/status)
 
 ### Relayers
-provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) --coming soon  
-provider<>apollo [via go relayer](https://github.com/cosmos/relayer) --coming soon  
+provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) live  
+provider<>apollo [via go relayer](https://github.com/cosmos/relayer) live  
+provider<>hero [via go relayer](https://github.com/cosmos/relayer) live  
 
 ### Docker Images
 [gaia](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fgaia)  
@@ -23,3 +25,7 @@ provider<>apollo [via go relayer](https://github.com/cosmos/relayer) --coming so
 [ics](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fics)  
 
 `ghcr.io/strangelove-ventures/heighliner/ics:v0.2.0`
+
+[strange](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fstrange)  
+
+`ghcr.io/strangelove-ventures/heighliner/strange:v0.1.0`
