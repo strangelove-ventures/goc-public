@@ -39,6 +39,10 @@ provider<>strange [via go relayer](https://github.com/cosmos/relayer) soon
 
 `ghcr.io/strangelove-ventures/heighliner/ics:v0.2.0`
 
+[neutron](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fneutron/52584490?tag=neutron_insterchain_security_0.1.1)  
+
+`ghcr.io/strangelove-ventures/heighliner/neutron:neutron_insterchain_security_0.1.1`
+
 [strange](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fstrange)  
 
 `ghcr.io/strangelove-ventures/heighliner/strange:v0.1.0`
