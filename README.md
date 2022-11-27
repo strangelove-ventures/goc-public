@@ -26,8 +26,8 @@ strange: [http://strange.goc.strange.love:26657/status](http://strange.goc.stran
 provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>apollo [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>hero [via go relayer](https://github.com/cosmos/relayer) live  
-provider<>neutron [via go relayer](https://github.com/cosmos/relayer) soon  
-provider<>gopher [via go relayer](https://github.com/cosmos/relayer) soon  
+provider<>neutron [via go relayer](https://github.com/cosmos/relayer) live  
+provider<>gopher [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>strange [via go relayer](https://github.com/cosmos/relayer) soon  
 
 ### Docker Images
