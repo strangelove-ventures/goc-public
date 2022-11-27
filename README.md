@@ -16,7 +16,7 @@
 ### RPC Servers
 provider: [http://provider.goc.strange.love:26657/status](http://provider.goc.strange.love:26657/status)  
 sputnik: [http://sputnik.goc.strange.love:26657/status](http://sputnik.goc.strange.love:26657/status)  
-apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status)   
+apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.love:26657/status) - chain stopped   
 hero: [http://hero.goc.strange.love:26657/status](http://hero.goc.strange.love:26657/status)  
 neutron: [http://neutron.goc.strange.love:26657/status](http://neutron.goc.strange.love:26657/status)  
 gopher: [http://gopher.goc.strange.love:26657/status](http://gopher.goc.strange.love:26657/status)  
