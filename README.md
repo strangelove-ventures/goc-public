@@ -20,7 +20,8 @@ apollo: [http://apollo.goc.strange.love:26657/status](http://apollo.goc.strange.
 hero: [http://hero.goc.strange.love:26657/status](http://hero.goc.strange.love:26657/status)  
 neutron: [http://neutron.goc.strange.love:26657/status](http://neutron.goc.strange.love:26657/status)  
 gopher: [http://gopher.goc.strange.love:26657/status](http://gopher.goc.strange.love:26657/status)  
-strange: [http://strange.goc.strange.love:26657/status](http://strange.goc.strange.love:26657/status) - soon  
+duality: [http://duality.goc.strange.love:26657/status](http://duality.goc.strange.love:26657/status)  
+strange: [http://strange.goc.strange.love:26657/status](http://strange.goc.strange.love:26657/status)  
 
 ### Relayers
 provider<>sputnik  [via go relayer](https://github.com/cosmos/relayer) live  
@@ -28,6 +29,7 @@ provider<>apollo [via go relayer](https://github.com/cosmos/relayer) live
 provider<>hero [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>neutron [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>gopher [via go relayer](https://github.com/cosmos/relayer) live  
+provider<>duality [via go relayer](https://github.com/cosmos/relayer) soon  
 provider<>strange [via go relayer](https://github.com/cosmos/relayer) soon  
 
 ### Docker Images
@@ -46,6 +48,10 @@ provider<>strange [via go relayer](https://github.com/cosmos/relayer) soon
 [strange](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fstrange)  
 
 `ghcr.io/strangelove-ventures/heighliner/strange:v0.1.0`
+
+[duality](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fduality)  
+
+`ghcr.io/strangelove-ventures/heighliner/duality:v0.1.0`
 
 [checksum](https://github.com/orgs/strangelove-ventures/packages/container/package/checksum)  
 
