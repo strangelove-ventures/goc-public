@@ -29,8 +29,8 @@ provider<>apollo [via go relayer](https://github.com/cosmos/relayer) live
 provider<>hero [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>neutron [via go relayer](https://github.com/cosmos/relayer) live  
 provider<>gopher [via go relayer](https://github.com/cosmos/relayer) live  
-provider<>duality [via go relayer](https://github.com/cosmos/relayer) soon  
-provider<>strange [via go relayer](https://github.com/cosmos/relayer) soon  
+provider<>strange [via go relayer](https://github.com/cosmos/relayer) live 
+provider<>duality [via go relayer](https://github.com/cosmos/relayer) soon   
 
 ### Docker Images
 [gaia](https://github.com/strangelove-ventures/heighliner/pkgs/container/heighliner%2Fgaia)  
